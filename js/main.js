@@ -643,7 +643,6 @@ signUp.addEventListener('click',function(e){
         document.getElementById("submitBtn").disabled = false;
     }else{
         console.log(false);
-        document.getElementById("submitBtn").disabled = false;
 
     }
 
